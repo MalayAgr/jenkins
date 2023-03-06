@@ -1,1 +1,2 @@
-print("Hello World\n")
+print("Hello World")
+print("This is Poll SCM")
